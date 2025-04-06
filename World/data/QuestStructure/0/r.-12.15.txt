@@ -1,0 +1,13 @@
+UndergroundCultChamber,-6434,-6392,7719,7751
+RLCraft_SmallUndergroundSkeleton,-6288,-6280,7850,7858
+P_IceSkeletonLookout,-6412,-6402,7890,7900
+JokerTower,-6540,-6532,7790,7798
+RLCraft_DecentCaveSpider,-6545,-6545,7843,7843
+RLCraft_UndergroundRuin3,-6548,-6540,7841,7849
+DinosaurSkull,-6447,-6436,7888,7907
+RLCraft_BasicWitch,-6613,-6613,7761,7761
+RLCraft_UndergroundRuin1,-6619,-6610,7758,7767
+ShrineSmallFire,-6472,-6462,7910,7920
+RLCraft_DecentSpider,-6644,-6644,7769,7769
+RLCraft_UndergroundRuin2,-6646,-6639,7764,7774
+SmallAbandonedMine,-6496,-6471,7980,7995

@@ -1,0 +1,19 @@
+{
+  "nameCache:9": {
+    "0:10": {
+      "name:8": "Nego_Plays",
+      "isOP:1": 1,
+      "uuid:8": "ceddbbd6-4dad-3797-9e48-9f6bddecee16"
+    },
+    "1:10": {
+      "name:8": "Nego_Plays",
+      "isOP:1": 1,
+      "uuid:8": "e2237737-8fc5-4e5a-8672-31c8a027b42a"
+    },
+    "2:10": {
+      "name:8": "Lenom",
+      "isOP:1": 0,
+      "uuid:8": "260c8319-8f3c-31d3-a173-912ba80ef491"
+    }
+  }
+}

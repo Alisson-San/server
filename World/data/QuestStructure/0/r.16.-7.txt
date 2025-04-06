@@ -1,0 +1,7 @@
+StonePlantMound2,8247,8260,-4070,-4058
+VillageForgeLarge,8249,8261,-4058,-4042
+P_VillageFarmhouse,8214,8226,-4029,-4017
+P_VillageHouse,8231,8242,-4030,-4021
+StonePlantMound,8254,8259,-4025,-4020
+VillageTriplets,8216,8230,-3994,-3980
+RLCraft_Vineyard,8237,8257,-3993,-3965

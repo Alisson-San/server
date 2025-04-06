@@ -1,0 +1,6 @@
+ShrineSmallWater,-9794,-9786,7572,7580
+RLCraft_DecentWitch,-9887,-9887,7677,7677
+RLCraft_UndergroundRuin3,-9892,-9884,7675,7683
+ShrineSmallAir,-9822,-9814,7559,7567
+RLCraft_BasicCaveSpider,-9927,-9927,7638,7638
+RLCraft_UndergroundRuin1,-9930,-9921,7632,7641

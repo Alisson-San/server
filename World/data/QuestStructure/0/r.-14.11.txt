@@ -1,0 +1,8 @@
+StonePlantMound2,-7665,-7652,5999,6011
+StoneLeafMound,-7658,-7651,6055,6064
+PirateChest,-7571,-7567,6001,6005
+StoneBoulder,-7542,-7533,5887,5896
+RLCraft_SmallUndergroundSkeleton,-7604,-7596,6116,6124
+StonePlantBoulder,-7487,-7477,5902,5912
+StoneIceBoulder2,-7468,-7459,6003,6012
+StoneIceBoulder1,-7469,-7459,6090,6100
